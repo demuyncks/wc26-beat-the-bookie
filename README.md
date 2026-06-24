@@ -1,1 +1,1 @@
-# wc26-try-beat-the-bookie
+# wc26-beat-the-bookie
